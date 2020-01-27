@@ -1,0 +1,649 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="cecon" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="52f26fa9-970a-47ce-af45-116870de7ac7" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/CECONLib$Tester.ic" NAME="Tester Coverage Results" MODIFIED="1539613943700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>de.cecon.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myFlattenPackages" value="true" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-33151580">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="19" />
+          <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.2" value="6" />
+          <entry key="project.open.time.23" value="2" />
+          <entry key="project.open.time.26" value="2" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.78" value="1" />
+          <entry key="project.opened" value="20" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="0-SNAPSHOT" value="1" />
+          <entry key="CECon" value="2" />
+          <entry key="MODULES/mdl-CECONLib" value="1" />
+          <entry key="cecon" value="1" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="19" />
+          <entry key="xml" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="19" />
+          <entry key="UML" value="5" />
+          <entry key="XML" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="14" />
+          <entry key="java" value="4709" />
+          <entry key="txt" value="26" />
+          <entry key="xml" value="23" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="4709" />
+          <entry key="PLAIN_TEXT" value="40" />
+          <entry key="XML" value="23" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="524464327">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.1" value="3" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="51" />
+          <entry key="xml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="51" />
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="4" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="4" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/de/cecon/CECon.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1207">
+              <caret line="80" column="5" selection-start-line="80" selection-start-column="5" selection-end-line="80" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#828#829#0" expanded="true" />
+                <element signature="e#891#892#0" expanded="true" />
+                <element signature="docComment;method#connectToEthereumClient#2;class#CECon#0" />
+                <element signature="docComment;method#setSmartContractConnection#0;class#CECon#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/org/cecon/Cecon.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/cecon/CEcon.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/cecon/CEConUtils.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/de/cecon/SmartContractConnection.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/cecon/CECon.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/cecon/WalletConnection.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/cecon/Tester.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="workOffline" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="CECon" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="CECon" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="950" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CECONLib" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CECONLib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CECONLib" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CECONLib" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CECONLib" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CECONLib" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CECONLib" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CECONLib" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+              <item name="cecon" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="ceconlib" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539614901176" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../cecondemo" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="node.js.selected.package.tslint" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15429688" />
+    <property name="project.structure.side.proportion" value="0.4157044" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.tslint" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.cecon.Tester" />
+      <module name="CECONLib" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.cecon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Tester" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52f26fa9-970a-47ce-af45-116870de7ac7" name="Default Changelist" comment="" />
+      <created>1533816394530</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1533816394530</updated>
+      <workItem from="1533816396936" duration="2105000" />
+      <workItem from="1534334748401" duration="301000" />
+      <workItem from="1534335296990" duration="89000" />
+      <workItem from="1534336003612" duration="132000" />
+      <workItem from="1534349239087" duration="1113000" />
+      <workItem from="1534406944791" duration="63000" />
+      <workItem from="1534409959534" duration="774000" />
+      <workItem from="1534594355401" duration="626000" />
+      <workItem from="1534751073881" duration="5840000" />
+      <workItem from="1534774433175" duration="67000" />
+      <workItem from="1537259160911" duration="462000" />
+      <workItem from="1537259657929" duration="402000" />
+      <workItem from="1537260849410" duration="28000" />
+      <workItem from="1537261088562" duration="168000" />
+      <workItem from="1537261445817" duration="982000" />
+      <workItem from="1537468004676" duration="1098000" />
+      <workItem from="1539078180961" duration="739000" />
+      <workItem from="1539079624252" duration="127000" />
+      <workItem from="1539079812323" duration="3849000" />
+      <workItem from="1539610262309" duration="1034000" />
+      <workItem from="1539612471917" duration="1134000" />
+      <workItem from="1539613669523" duration="564000" />
+      <workItem from="1539614416898" duration="492000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="22189000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49858356" visible="true" weight="0.13557047" />
+      <window_info id="Structure" order="1" sideWeight="0.50141644" side_tool="true" weight="0.12885906" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32577905" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.17073171" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3286119" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" sideWeight="0.49789914" visible="true" weight="0.21073826" />
+      <window_info anchor="right" id="Coverage" order="9" sideWeight="0.5021008" side_tool="true" weight="0.21073826" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/cecon/CeconHelper.java" />
+    <entry file="file://$PROJECT_DIR$/../../../CamundaEthereum_Concept/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/cecon/CEConUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="17" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MODULES/mdl-CECONLib">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MODULES</ID>
+          <OriginalElement>mdl-CECONLib</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">mdl-CECONLib</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="2.3000000000000007" x="49.0" y="-8.0" />
+          <SelectedNodes>
+            <node>mdl-CECONLib</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/de.cecon">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>de.cecon</OriginalElement>
+          <nodes>
+            <node x="0.0" y="358.0">de.cecon.CECon</node>
+            <node x="471.0" y="0.0">de.cecon.CEConUtils</node>
+            <node x="94.91666666666663" y="0.0">de.cecon.WalletConnection</node>
+            <node x="37.41666666666663" y="191.0">de.cecon.SmartContractConnection</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="de.cecon.CECon" target="de.cecon.WalletConnection">
+              <point x="159.75" y="-158.0" />
+              <point x="372.75" y="333.0" />
+              <point x="319.91666666666663" y="333.0" />
+              <point x="89.99999999999997" y="70.5" />
+            </edge>
+            <edge source="de.cecon.SmartContractConnection" target="de.cecon.WalletConnection">
+              <point x="67.99999999999997" y="-58.5" />
+              <point x="241.4166666666666" y="166.0" />
+              <point x="229.91666666666663" y="166.0" />
+              <point x="0.0" y="70.5" />
+            </edge>
+            <edge source="de.cecon.CECon" target="de.cecon.SmartContractConnection">
+              <point x="-159.75" y="-158.0" />
+              <point x="53.25" y="333.0" />
+              <point x="82.74999999999997" y="333.0" />
+              <point x="-90.66666666666667" y="58.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.9999999999999997" x="180.0" y="381.0" />
+          <SelectedNodes>
+            <node>de.cecon.CECon</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/de.cecon:CECon:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>de.cecon:CECon:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">de.cecon:CECon:1.0-SNAPSHOT</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.9825889477668432" x="-397.0" y="-146.0" />
+          <SelectedNodes>
+            <node>de.cecon:CECon:1.0-SNAPSHOT</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>Runtime</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/de.cecon.CECon">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>de.cecon.CECon</OriginalElement>
+          <nodes>
+            <node x="" y="">de.cecon.CECon</node>
+            <node x="" y="">de.cecon.CEConUtils</node>
+            <node x="" y="">de.cecon.WalletConnection</node>
+            <node x="" y="">de.cecon.SmartContractConnection</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.39538714991762763" x="1694.0" y="608.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/web3j/crypto/3.4.0/crypto-3.4.0-sources.jar!/org/web3j/crypto/Wallet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="131" selection-start-line="131" selection-end-line="131" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/cecon/SmartContractConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/cecon/WalletConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="65" column="28" selection-start-line="65" selection-start-column="28" selection-end-line="65" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CECONLib.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/cecon/Tester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/cecon/CECon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1207">
+          <caret line="80" column="5" selection-start-line="80" selection-start-column="5" selection-end-line="80" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#828#829#0" expanded="true" />
+            <element signature="e#891#892#0" expanded="true" />
+            <element signature="docComment;method#connectToEthereumClient#2;class#CECon#0" />
+            <element signature="docComment;method#setSmartContractConnection#0;class#CECon#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>cecon</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.4157044" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.4157044" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.4157044" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.4157044" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>CECONLib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.4157044" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.squareup.okhttp:okhttp:2.7.5</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.4157044" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="$PROJECT_DIR$" />
+    <option value="install:install-file -Dfile=out/artifacts/cecon/cecon.jar -DpomFile=pom.xml" />
+    <option value="install:install-file \ -Dfile=out/artifacts/cecon/cecon.jar \ -DpomFile=pom.xml" />
+    <option value="install:install-file \ -Dfile=out/cecon.jar \ -DpomFile=pom.xml" />
+  </component>
+</project>
